@@ -1,0 +1,250 @@
+* {
+    margin: 0;
+    padding: 0;
+    font-family: "Poppins", sans-serif;
+}
+
+.navbar {
+    background-color: black;
+    height: 40px;
+}
+
+li {
+    display: inline;
+    /* border: 2px solid gray; */
+    text-align: center;
+    margin: 30px;
+}
+
+
+a {
+    text-decoration: none;
+    color: white;
+    font-size: 28px;
+
+
+}
+
+a:hover {
+    background-color: lightgray;
+    color: black;
+
+}
+
+.material-symbols-outlined {
+    text-align: center;
+    color: white;
+    border-radius: 5px;
+    /* font-size: 25px; */
+    /* margin-left: 125%; */
+}
+
+.material-symbols-outlined:hover {
+    color: rgba(255, 255, 255, 0.63);
+    cursor: pointer;
+    background-color: rgb(0, 0, 0);
+}
+
+img {
+    width: 100%;
+    height: 700px;
+}
+
+.hero-text {
+    color: white;
+    text-align: center;
+    margin-top: -150px;
+}
+
+.thebandmembers {
+    text-align: center;
+
+    /* border: 2px solid red; */
+    width: 900px;
+    margin-top: 150px;
+    margin-left: 20%;
+}
+
+.grey-text {
+    color: lightgray;
+    font-style: italic;
+    text-align: center;
+    margin: 25px;
+}
+
+.para-center {
+    text-align: justify;
+    margin-bottom: 25px;
+    /* width: 500px; */
+}
+
+.members-image {
+    display: flex;
+    margin: 20px;
+
+}
+
+.members-image img {
+    width: auto;
+    height: 200px;
+    border-radius: 15px;
+    margin: 30px;
+
+}
+
+.tour-dates {
+    /* border: 2px solid green; */
+    padding: 400px;
+    /* height: 100px; */
+    background-color: black;
+
+}
+
+.tour-dates h2 {
+    color: white;
+    margin-top: -300px;
+    text-align: center;
+}
+
+.box-month-sold {
+    background-color: white;
+    /* border: 2px solid red; */
+    height: 125px;
+
+}
+
+.box-month-sold p {
+    color: rgb(166, 157, 157);
+    margin: 10px;
+}
+
+hr {
+    margin: 10px;
+    color: lightgrey;
+}
+
+span {
+    background-color: rgb(240, 71, 71);
+    color: white;
+    margin: 25px;
+}
+
+.number-black {
+    color: white;
+    background-color: black;
+    border-radius: 100%;
+    margin-left: 80%;
+    border: 5px solid black;
+}
+
+.card-1 {
+    /* border: 2px solid red; */
+    width: 500px;
+
+
+}
+
+.card-1 img {
+    width: auto;
+    height: 200px;
+    border-radius: 15px;
+
+}
+
+.image-cards {
+    display: flex;
+    margin: 100px;
+
+    /* width:2000px; */
+}
+
+.date {
+    color: lightgray;
+}
+
+.card-text {
+    text-align: start;
+}
+
+button {
+    background-color: black;
+    color: white;
+    width: 30%;
+    height: 50px;
+    border: none;
+    margin-top: 20px;
+
+}
+
+button:hover {
+    background-color: lightgray;
+    color: black;
+}
+
+
+.personal-details {
+    display: flex;
+}
+
+.material-symbols-outlined {
+    margin-left: 100px;
+    color: black;
+    background-color: white;
+    margin-top: -1px;
+}
+
+.first-row-input {
+    margin-left: 800px;
+    margin-top: -150px;
+
+}
+
+.last-row-input {
+    margin-left: 800px;
+
+}
+
+.text-input {
+    padding: 10px;
+    margin: 5px;
+}
+
+input {
+    border: 1px solid grey;
+}
+
+.btn-send button {
+    color: white;
+    width: 100px;
+    margin-left: 1050px;
+    margin-top: -400px;
+}
+
+.image-bottom {
+    margin-top: 50px;
+}
+
+.social-icons {
+    /* border: 2px solid red; */
+    width: auto;
+
+    text-align: center;
+    font-size: 25px;
+    margin-top: 15px;
+    /* height: 25px; */
+}
+
+.fa-brands {
+    color: rgb(171, 158, 158);
+}
+
+.fa-brands:hover {
+    color: rgb(171, 158, 140);
+}
+
+.social-icons p {
+    color: grey;
+    font-size: 12px;
+    margin-bottom: 125px;
+    margin-top: 25px;
+}
